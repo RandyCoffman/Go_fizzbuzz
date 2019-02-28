@@ -1,4 +1,4 @@
-## Fizz BUzz
+## Fizz Buzz
 A basic kata to learn more about Go
 
 Installation:
